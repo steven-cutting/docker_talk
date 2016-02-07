@@ -1,0 +1,4 @@
+smpl_token_test:
+    build: .
+    volumes:
+        - ./smpl_tokenizer:/app

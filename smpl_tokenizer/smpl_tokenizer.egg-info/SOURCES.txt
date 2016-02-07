@@ -1,0 +1,7 @@
+smpl_tokenizer/__init__.py
+smpl_tokenizer/tokenize.py
+smpl_tokenizer/utils.py
+smpl_tokenizer.egg-info/PKG-INFO
+smpl_tokenizer.egg-info/SOURCES.txt
+smpl_tokenizer.egg-info/dependency_links.txt
+smpl_tokenizer.egg-info/top_level.txt
